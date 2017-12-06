@@ -1,0 +1,27 @@
+{
+  "name": "wechaty-plank",
+  "version": "1.0.0",
+  "description": "Plank recording from wechat group using wechaty bot",
+  "main": "plank.js",
+  "scripts": {
+    "plank": "node plank.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robaggio/wechaty-plank.git"
+  },
+  "keywords": [
+    "wechat",
+    "plank"
+  ],
+  "author": "robaggio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robaggio/wechaty-plank/issues"
+  },
+  "homepage": "https://github.com/robaggio/wechaty-plank",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "wechaty": "^0.12.0"
+  }
+}
